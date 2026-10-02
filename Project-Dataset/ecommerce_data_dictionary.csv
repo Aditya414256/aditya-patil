@@ -1,0 +1,19 @@
+Column,Type,Meaning
+Customer_ID,Identifier,Unique customer identifier; not used as a model feature.
+Age,Numeric,Customer age in years.
+Gender,Categorical,"Male, Female, or Other."
+City_Tier,Categorical,"Tier 1, Tier 2, or Tier 3 city classification."
+Income,Numeric,Approximate monthly income in INR.
+Tenure_Months,Numeric,Number of months since joining.
+Visits_Per_Month,Numeric,Average monthly website/app visits.
+Products_Bought,Numeric,Number of products purchased in the observation period.
+Avg_Order_Value,Numeric,Average order value in INR.
+Discount_Usage_Rate,Numeric,"Share of orders using a discount, from 0 to 1."
+Cart_Abandonment_Rate,Numeric,"Share of carts abandoned, from 0 to 1."
+Reviews_Given,Numeric,Number of reviews submitted.
+Support_Tickets,Numeric,Number of customer support requests.
+Days_Since_Last_Purchase,Numeric,Days since the customer's most recent purchase.
+Membership_Type,Categorical,"None, Basic, or Premium."
+Preferred_Category,Categorical,Most frequently purchased category.
+Annual_Spending,Target,"Continuous target for regression, in INR."
+Churn,Target,"Binary target: 0 = No churn, 1 = Churn."

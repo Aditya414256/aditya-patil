@@ -1,0 +1,30 @@
+📚 *SPYTHON: Rise of the Machine Learning – Phase 2*
+
+Hey everyone! 👋💙
+
+Thank you for being a part of our *3-Day Machine Learning Workshop* conducted by the Fetch.ai Developer Club. 🐍
+
+As promised, we’re sharing the complete workshop content covering all 3 days of Phase 2.
+
+⬇️ *Download Instructions:*
+Download the ZIP file above → Extract it → Open the folders to access the workshop resources.
+
+💻 *Project Instructions:*
+The ZIP file also contains the *Google Colab notebook*. Follow the instructions and complete the project.
+
+🐙 *GitHub Submission (Mandatory for Certificate):*
+
+1. Complete and run your project in Google Colab.
+2. Download the notebook: *File → Download → Download .ipynb*.
+3. Go to [GitHub](https://github.com/) and create a *Public repository*.
+4. Click *Add file → Upload files*, upload your notebook, and click *Commit changes*.
+5. Mention *@fetch.ai.rcpit* in your repository's `README.md`.
+6. Copy your GitHub repository link and keep it ready for submission.
+
+💡 Alternatively, use *File → Save a copy in GitHub* directly from Colab.
+
+⚠️ *Completing the project and uploading it to GitHub with @fetch.ai.rcpit mentioned is mandatory for receiving your certificate.* 🎓
+
+*Keep Learning. Keep Coding. Keep Building!* 🚀💙
+
+– Team Fetch.ai Club
